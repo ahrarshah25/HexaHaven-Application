@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.swal-margin-top {
+  margin-top: 50px !important;
+}
